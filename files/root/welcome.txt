@@ -1,0 +1,1 @@
+Home directory of the root user (stage 10 adds login).

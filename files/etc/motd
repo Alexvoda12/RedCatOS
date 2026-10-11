@@ -1,0 +1,3 @@
+Welcome to [1;31mRedCatOS[0m 0.11 - an educational operating system.
+Everything here was built from scratch: bootloader, kernel, drivers, FS, shell.
+type 'help' in the shell for builtins and editing keys

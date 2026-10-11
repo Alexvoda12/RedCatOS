@@ -1,0 +1,4 @@
+Hello from RedCatOS SFS!
+This file lives in a filesystem written from scratch:
+mkfs.py packed this directory into build/sfs.img, mkimage.py
+put it at LBA 2048, and the kernel reads it back via vfs_read.
