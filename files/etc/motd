@@ -4,3 +4,4 @@ type 'help' in the shell for builtins and editing keys
 Release 20: автообновление из репозитория (/etc/update.conf, см. docs 16)
 Release 21: обновление сверяет хэши всех файлов и чинит расхождения (см. docs 18.5)
 Release 22: новая команда 67 печатает 67 трижды (см. docs 19)
+Release 23: у команды 67 появились --help и --version (см. docs 19)
